@@ -1,5 +1,6 @@
-package fuzs.diagonalwalls;
+package fuzs.diagonalwalls.fabric;
 
+import fuzs.diagonalwalls.DiagonalWalls;
 import fuzs.puzzleslib.api.core.v1.ModConstructor;
 import net.fabricmc.api.ModInitializer;
 
